@@ -11,8 +11,8 @@ This project involves a comprehensive **Credit Card Fraud Risk Analysis** using 
 
 | File Name | Description |
 | :--- | :--- |
-| `Credit Card Fraud Risk Analysis.csv` | The **core dataset** containing credit card transaction details used for all analysis and modeling. |
-| `Credit Card Fraud Risk Analysis.pbix` | The **interactive Power BI Dashboard** for visualizing fraud trends, risk metrics, and key performance indicators. |
+| `Raw_Card_Data.csv` | The **core dataset** containing credit card transaction details used for all analysis and modeling. |
+| `Credit_Card_Fraud_Risk_ Analysis_Dashboard.pbix` | The **interactive Power BI Dashboard** for visualizing fraud trends, risk metrics, and key performance indicators. |
 | `Insights_Report.md` | A **detailed report** in Markdown format summarizing the key findings, risk assessment, and strategic recommendations. |
 
 ---
@@ -40,7 +40,7 @@ The project followed a structured data analysis pipeline, focused on actionable 
 
 ##  How to Use / Navigate This Repository
 
-1.  **View the Data:** The transaction data is available in `Credit Card Fraud Risk Analysis.csv`.
+1.  **View the Data:** The transaction data is available in `Raw_Card_Data.csv`.
 2.  **Explore the Insights:** Read the full analysis, findings, and strategic recommendations in the `Insights_Report.md` file.
-3.  **Interact with the Dashboard:** Download the `Credit Card Fraud Risk Analysis.pbix` file and open it using Power BI Desktop to interact with the full suite of visualizations.
+3.  **Interact with the Dashboard:** Download the `Credit_Card_Fraud_Risk_ Analysis_Dashboard.pbix` file and open it using Power BI Desktop to interact with the full suite of visualizations.
    
